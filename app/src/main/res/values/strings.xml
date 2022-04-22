@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ConsumeWithInjection</string>
+    <string name="fetch_successful">Fetching successful</string>
+    <string name="error">Fetching failed</string>
+</resources>
